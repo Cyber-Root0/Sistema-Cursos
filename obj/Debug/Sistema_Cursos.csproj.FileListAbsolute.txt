@@ -1,0 +1,10 @@
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.csprojAssemblyReference.cache
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.Form1.resources
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.Properties.Resources.resources
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.csproj.GenerateResource.cache
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\Desktop\Sistema_Cursos\bin\Debug\Sistema_Cursos.exe.config
+C:\Users\Cyber\Desktop\Sistema_Cursos\bin\Debug\Sistema_Cursos.exe
+C:\Users\Cyber\Desktop\Sistema_Cursos\bin\Debug\Sistema_Cursos.pdb
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.exe
+C:\Users\Cyber\Desktop\Sistema_Cursos\obj\Debug\Sistema_Cursos.pdb
